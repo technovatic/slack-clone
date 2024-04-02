@@ -1,13 +1,3 @@
- <h1 align="center"><a href="https://mern-react-book.herokuapp.com/"> Full Stack Slack Clone 📱</a></h1>
-
-## Description
-
-  Full Stack App - Slack Clone built with React, Redux, Styled Components & Firebase Hooks functionality and user authentication via gmail deployed to Firebase.
-
-  [![github-follow](https://img.shields.io/github/followers/johnsonr84?label=Follow&logoColor=lightgrey&style=social)](https://github.com/johnsonr84)
-  [![project-languages-used](https://img.shields.io/github/languages/count/johnsonr84/readme-generator?color=orange)](https://github.com/johnsonr84/react-book-search)
-  [![project-top-language](https://img.shields.io/github/languages/top/johnsonr84/readme-generator?color=yellow)](https://github.com/johnsonr84/react-book-search)
-  [![license](https://img.shields.io/badge/license-mit-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
 
 ## Built With
 
@@ -27,30 +17,8 @@
 * [Contact](#contact)
 * [Author](#author)
 
-## Project URL
 
-  <https://github.com/johnsonr84/slack-clone>
 
-## Deployment
-
-  <https://slack-clone-dd-71ab5.web.app/>
-
-## Demo/Screenshots
-
-  <table>
-    <tr>
-      <td>slack clone login</td>
-    </tr>
-        <tr>
-      <td><img src="slack-clone-login.png" height=400 alt="screenshot of slack clone login"></td>
-    </tr>
-    <tr>
-      <td>slack clone app</td>
-    </tr>
-    <tr>
-      <td><img src="slack-clone-app.png" height=400 alt="screenshot of slack clone app"></td>
-    </tr>
-  </table>
 
 ## Technologies
 
@@ -87,7 +55,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
 
 ### `npm run eject`
 
@@ -115,19 +83,3 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
   npm test
 
-## Resources
-
-* [Choose a License](https://choosealicense.com/)
-* [YouTube](https://www.youtube.com/watch?v=QiTq5WrWoJw)
-* [Next.js](https://nextjs.org/)
-* [Redux](https://redux.js.org/)
-
-## Contact
-
-  Email: robertcjohnson1984@gmail.com
-
-## Author
-
-  Author(s): Rob Johnson  
-
-  GitHub: <https://github.com/johnsonr84/>

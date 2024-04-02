@@ -17,8 +17,8 @@ function Login() {
           alt=""
         />
         <div className="login__text">
-          <h1>Sign in to the DevDork Slack</h1>
-          <p>devdork.com</p>
+          <h1>Sign in to the Vishal Slack</h1>
+          <p>vishalkelur.com</p>
         </div>
 
         <Button type="submit" onClick={signIn}>

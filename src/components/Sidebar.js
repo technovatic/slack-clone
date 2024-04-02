@@ -26,7 +26,7 @@ function Sidebar() {
     <SidebarContainer>
       <SidebarHeader>
         <SidebarInfo>
-          <h2>Dev Dork HQ</h2>
+          <h2>Vishal Kelur Slack</h2>
           <h3>
             <FiberManualRecordIcon />
             {user?.displayName}
